@@ -1,0 +1,10 @@
+ohm-bench
+---------
+
+Benchmarks for Ohm.
+
+WARNING: This program will flush Redis DB 0 without warning.
+
+--
+Phil Stewart
+June 2011
